@@ -1,0 +1,1 @@
+# wap to create a string which contain a paragraph. now find 1.count How many word it contains .2.how many palindrome exist .3.print each word in reverse order . 
